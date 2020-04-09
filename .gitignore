@@ -4,6 +4,11 @@ node_modules/
 coverage/
 .idea/
 run/
+codecov.yml
+test/fixtures/apps/msg-flash-test/logs/common-error.log
+test/fixtures/apps/msg-flash-test/node_modules/
+test/fixtures/apps/msg-flash-test/yarn-error.log
+yarn.lock
 .DS_Store
 *.swp
 
