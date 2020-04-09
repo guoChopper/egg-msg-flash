@@ -1,6 +1,6 @@
 {
-  "name": "egg-msg-flash",
-  "version": "1.0.0",
+  "name": "egg-msg-flash-chopper",
+  "version": "1.0.1",
   "description": "a flash plugin for egg",
   "eggPlugin": {
     "name": "flash",
@@ -50,12 +50,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-msg-flash.git"
+    "url": "git+https://github.com/guoChopper/egg-msg-flash.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/guoChopper/egg-msg-flash/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-msg-flash#readme",
+  "homepage": "https://github.com/guoChopper/egg-msg-flash",
   "author": "chopper",
   "license": "MIT"
 }
